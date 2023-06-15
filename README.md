@@ -11,6 +11,7 @@ A reload/session close will cause the app to revert
 to its original state, with 2 default phonebook entries.
 
 Function of each component:
+
 All: shows all people in the phonebook, along with their number.
 
 Filter: shows a filtered version of the phonebook based on input
